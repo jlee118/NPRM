@@ -7,4 +7,4 @@ Reference:
 
 Paper Link:
 
-This directory contains the code used to train and evaluate the Neural Pairwise Ranking Model as well as other baseline methods to obtain the ranking metrics as seen in the paper.
+This directory contains the code used to train and evaluate the Neural Pairwise Ranking Model as well as other baseline methods to obtain the ranking metrics seen in the paper.
